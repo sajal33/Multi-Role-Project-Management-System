@@ -117,6 +117,5 @@ A Postman collection is included in the repository. Import the `Project-Manageme
 ## License
 
 This project is licensed under the ISC License.
-=======
-# Multi-Role-Project-Management-System
->>>>>>> b6f3bb5ff56087a6304bbcc8c734bccf0cbfc529
+
+
