@@ -29,7 +29,7 @@ A robust REST API for a Project Management System where companies can manage use
 - MongoDB (Mongoose ODM)
 - JWT (with refresh token support)
 - Joi for validation
-- Jest for testing
+- Postman for testing
 
 ## Installation
 
